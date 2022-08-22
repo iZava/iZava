@@ -1,12 +1,13 @@
-### Hola! Mi nombre es Ignacio Zavalla
+### Hola!👋 
 
-- 👋 My user name @iZava
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Mi nombre de usuario es @iZava
 
-<!---
-iZava/iZava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desarrollador web full stack en contínuo proceso de foramación. Proactivo, creativo y con marcada orientación al usuario. Me encuentro en búsqueda de mi primera experiencia aboral en el campo de la programación.
+
+### Hello 👋 
+
+My user name is @iZava
+
+I am a full stack web developer in a continuous training process. Proactive, creative and with marked user orientation. I am looking for my first work experience as a developer.
+
+
